@@ -1,0 +1,19 @@
+{
+  "name": "@dmitriyag1967/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitriyAg1967/ajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitriyAg1967/ajs/issues"
+  },
+  "homepage": "https://github.com/DmitriyAg1967/ajs#readme"
+}
